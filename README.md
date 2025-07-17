@@ -1,4 +1,5 @@
-##AI Reddit Persona Generator##
+AI Reddit Persona Generator
+
 An intelligent tool that analyzes Reddit user activity and generates comprehensive personality profiles using advanced AI techniques. This project combines Reddit API integration with natural language processing to create detailed user personas based on posting patterns, comment history, and engagement behavior.
 🚀 Features
 
